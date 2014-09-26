@@ -5,7 +5,7 @@ CSI-NLP-and-text-mining-project
 PROBLEM STATEMENT:
 
 (Application 1)
-'Sentiment Analysis' aims at developing a machine learning technique to determine the polarity of a document. The key objective is to design an algorithm that can learn ‘certain’ information from the already classified data set (learning set) and then classify a review as positive or negative. In this report, we start with briefly describing the pre-existing approaches to the problem and the variations to the standard techniques that we tried to make them more effective.
+'Sentiment Analysis' aims at developing a machine learning technique to determine the polarity of a document. The key objective is to design an algorithm that can learn ‘certain’ information from the already classified data set (learning set) and then classify a review as positive or negative.
 We attempt to classify various product(a product could be anything-tangible things like different models of phones or services, websites etc- flexible) reviews by using various methods of NLP(Natural Language processing). The aim of the project is to be able to analyze reviews one by one and determine whether the user is positive or negative about the given product.
 (Application 2)
 'Automative Exam Scoring' is an objective method of marking which involves analysing answers for the presence of concrete facts or statements instead of using any continuous measure. A machine learning approach is adopted using a set of pre-defined keywords, the presence of which helps evaluate an answer.
